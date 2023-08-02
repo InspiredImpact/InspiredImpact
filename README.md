@@ -1,8 +1,4 @@
-![InspiredImpact](assets/inspiredimpact.png)
-
-----
-
-<img src="assets/avatar.png" alt="Wallpaper" width=35% align="left"> <br><br>
+<img src="assets/avatar.png" alt="Wallpaper" width=35% align="left"> <br>
 
 + ### Welcome to my GitHub profile!
   + I'm passionate about system design and architecture, and I thrive on 
