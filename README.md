@@ -1,4 +1,4 @@
-<img src="assets/avatar.png" alt="Wallpaper" width=35% align="left"> <br>
+<img src="assets/background.jpg" alt="Wallpaper" align="center"> <br>
 
 ### Welcome to my GitHub profile!
 
